@@ -1,0 +1,24 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+body{
+    background-color: #eaeaea!important;  
+    padding: 2rem;
+}
+h1 {
+    border-bottom: 1px inset #696969;
+    padding-bottom: 1rem;
+}
+h2 {
+    padding-top: 1rem;
+    
+}
+.input {
+    width: 92%;
+}
+.columnas {
+    display: flex;
+    margin-top: 2rem;
+}
+
